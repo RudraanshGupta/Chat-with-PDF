@@ -31,5 +31,5 @@ The application follows a structured RAG pipeline:
 
 1. **Clone the Repository:**
    ```bash
-   git clone <your-repository-url>
-   cd <repository-folder>
+   git clone <https://github.com/RudraanshGupta/Chat-with-PDF/tree/main>
+   cd <https://github.com/RudraanshGupta/Chat-with-PDF>
